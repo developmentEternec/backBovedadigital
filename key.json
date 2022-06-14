@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bovedadigital-818a8",
+  "private_key_id": "ca59f42c15cee1e3562f7e7f0ba514e108b028f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqS5h9BjXdGfRW\n/vVNVC7IjMY3fm56DxhcpIu/2ohYePVllS58Btx3nfDnxROR9gYc0hutpIaLzwNJ\nrS2uFkKISKwDxbKrGV/ZNPnsw060VMbrKOoj/gLxqOvza44z0lcSyJbw06LnAt1a\nMCC+46DAjY0tR8oZPZ4eQSo1KmDBNppfBpiJOcuspc5rpqkjohaKfqVRmNW7+7ir\nKi/6qhfrc2o7WuQ3xE3DayMaHu2d8VS05R6jo2EnGDr4ky9yUdTgJHt9K7WFcizj\nkZ8wpxDtLrLtQU4Jzr8Dcd82PTuN5n31mpzcMVV8sCRhVaOCetbtNWV/ZNk1VVUU\nhljdNP5ZAgMBAAECggEATJacGZqJ7gsGt3uKEkGqmrqpSPr9L7sLP1snmNztVjDs\nWMfbtJ8XV1q6plodf5cwz5R1K0aj1kv/lAqlUTakrItWhYnL3aSXVWY8gs2h33uD\nTO7FQvOyGkJY/8yfE1Jlo8aAEAZ2rMO+jpm3mHJicUcYN8WiMHDkZIH1PBz3j91D\n8LJO0lYKOTDHPV2eq4mGAbXhgcmlEMEJfavZ2weLMwVjzVjMCUxxYdw9mq7PSt0Y\nL8TpR75K9mewDvvsERzDYUrUBa/86gHX1G/Pg+LmtIurWZ4vWmPTempiWvQkdj/F\nmyo3eiK1+r/wAZcmJZv4mR13u7KFU8cHdwtHOS5rmwKBgQDtzGoiSf+o9PJccR24\n8hz60ZEEyADxBxVsZVjmBzpTkAytk+oSbFT67qg6hXi6MK2BNUcof7L2LRHan8PU\nxwowe/1Epze1XSEPc6Jl8Vbls1RuQ+G/m3c6cr6ICkTP30K+7PzqTMss/tLKNLg5\nY5ZYzEQJz5EQYjEfC2nLDXIXewKBgQC3VHo8lBpNhrpXk/F9RS2HJqYBOh/QStTq\nir4TjO1aRsSoqZJ2tZLeBrXgU2Z9InQfDfvwGSoG3tnhiH0ypWa5ItCc6n6C5mRR\n6rK1P4SbSnBI3OZIBqLAp1GXgsTJRgDya/vUVbwMPhRKPHbsPEq27lGmplPXx1Am\nFqMV1K4vOwKBgQDLyfba09fJj8Fz/2ydZr/3I0nIcy57YLq3XlNFLsSJgFWdG7np\nd/WL5qM9I81GoxjONj55MpbH6e/3EBvfaYQN8PQntbZEMz914n82JhF2YKzmoj4A\n2tbevB8Urtgx3P9yZ96HXLByKx+yMmP+qp3aE5PrZHrJM50tIbbUUP2JqQKBgFNc\nblitX2hxIro/40b69cDGqiVUsLKd1ELx44wwQJ0UIMgwkxC3b5jVpE3knm24BOU6\nDp0WVC3bl2ceEQ++df8o/YLcfbo32NYGykvwHfQe3P/EslF98vN3IXqrU5/R3Qxe\nXZwnf+JxN/iplcnFgJO9uhL0/prXXnJzSKTcmHeRAoGBANIglFIVyhNOpm82QowW\nVbU0JUZE4Anaz/erQHKmeH5pFvZtDGMbCV2893jUQe2Nj7KhuPYoH+QRCGpoQg2G\nFIyRHu3F2/uiODwK60+SgSHYhRFMiw/UCQCeuHQMSWSB9IjA9r2sva30m2EONmTK\n65tu1RK8JvjeU4jyboxnWrCs\n-----END PRIVATE KEY-----\n",
+  "client_email": "bovedadigital@bovedadigital-818a8.iam.gserviceaccount.com",
+  "client_id": "103405201671486528628",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bovedadigital%40bovedadigital-818a8.iam.gserviceaccount.com"
+}
